@@ -1,6 +1,6 @@
 # AdvanceCSharp
 
-<h1>Lesson 1 05.05.2024 </h1>
+<h2>Lesson 1 <br> 05.05.2024 </h1>
 
 ✅ .NET ecosystem nədir?
 <br>
